@@ -1,14 +1,6 @@
 {
-  "name": "AditzMods Api",
+  "name": "aditzmods-api",
   "version": "1.0.0",
-  "description": "API Generator",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "nanoid": "Latest"
-  },
   "engines": {
     "node": "18.x"
   }
