@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "nanoid": "latest"
+    "nanoid": "Latest"
   },
   "engines": {
     "node": "18.x"
